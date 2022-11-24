@@ -1,3 +1,5 @@
+# Just in Time Adaptive Intervention Framework
+
 Just in Time Adaptive Intervention (JITAI) is a way to deliver small interventions to people / patients in a context-sensitive manner [1]. This page outlines ideas for a JITAI Framework, i.e. a Flutter programming framework that support the implementation of JITAI. This is based on the context sensing in CAMS.
 
 
