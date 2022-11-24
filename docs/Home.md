@@ -1,4 +1,4 @@
-> **NOTE:** This is a **public** repository/wiki and should not contain any **confidential** information, including usernames/passwords.
+# Home
 
 # Requirements
 - [Requirements Analysis Document (RAD)](https://github.com/cph-cachet/carp.documentation/blob/master/docs/BHRP%20Requirements%20Analysis%20Document%20v2.0.pdf): most of the requirements for the CARP platform were derived from a related project: the [Biometric Healthcare Research Platform (BHRP)](https://www.cachet.dk/research/research_projects/bhrp). This document serves as an introduction to what the project is about, provides functional and non-functional requirements, and common terminology used in the project.
