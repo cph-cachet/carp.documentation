@@ -1,3 +1,5 @@
+# CARP Open Source License (MIT)
+
 As per agreement with DTU Compute management the software developed as part of the CACHET Research Platform (CARP)  project will be made available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Copyright Statement
