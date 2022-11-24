@@ -1,3 +1,5 @@
+# General naming conventions
+
 ## Java/Kotlin naming convention
 
 * use default Java naming convention (camelCase)
