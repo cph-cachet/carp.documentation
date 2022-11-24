@@ -1,3 +1,5 @@
+# Repository design overview
+
 ## Repositories naming
 
 All CACHET Research Platform (CARP) repositories follow the naming standard described below:
