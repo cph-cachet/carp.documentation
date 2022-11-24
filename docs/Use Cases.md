@@ -1,3 +1,5 @@
+# Use Cases
+
 This page contains a set of loosely formulated use cases to be used in the user-oriented design of CARP. This includes use cases for the back-end as well as use cases for end-user applications. This documentation is made in an overall 'sketchy' manner, and once the systems are designed and developed, more detailed information and documentation can be found in the different git repositories containing each implementation.
 
 ## DTU DigitalStress Sensing
