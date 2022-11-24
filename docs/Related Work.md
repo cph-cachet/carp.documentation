@@ -1,9 +1,9 @@
 # Related Work
 
-# Academic Projects 
+## Academic Projects 
 
 
-## Related Sensing Frameworks
+### Related Sensing Frameworks
 
 Here are notes on related frameworks - no particular order or systematic approach - just notes. We also have a shared [spreadsheet](https://docs.google.com/spreadsheets/d/1_6Fu9LDWCzPCL5WSMlP1NTYjRdqsKmT_ghzYiK-N45M) on this. The wikipedia page on "[Mobile Phone-based Sensing Software](https://en.wikipedia.org/wiki/Mobile_phone_based_sensing_software)" also provides an overview.
 
@@ -28,7 +28,7 @@ Here are notes on related frameworks - no particular order or systematic approac
 * **[Pepper](https://code.datadonationplatform.org)** from [Broad Institute](https://www.broadinstitute.org)
 
 
-# Commercial Systems
+## Commercial Systems
 
 * **[Apple Health](https://www.apple.com/uk/ios/health/)** | [Apple Healthkit](https://developer.apple.com/documentation/healthkit) | [Open Research Kit (ORK)](http://researchkit.org) | [Open Care Kit (OCK)](http://carekit.org) | [What's the difference?](https://www.biotaware.com/blog/apple-researchkit-healthkit-and-carekit-health-app-what-does-it-all-mean)
 * **[Apple Research App](https://www.apple.com/ios/research-app/)**
@@ -44,7 +44,7 @@ Here are notes on related frameworks - no particular order or systematic approac
 * **[ODK](https://getodk.org/#features)** - Open Data Kit - [github](https://github.com/getodk)
 * **[iMotions Mobile](https://imotions.com/mobile-platform-landing-page-submissions/)** | [Android app](https://play.google.com/store/apps/details?id=io.imotions.clients.mobile)
 
-# Other relevant resources
+## Other relevant resources
 
 * [Resources for the Discovery of Digital Biomarkers](https://github.com/DigitalBiomarkerDiscoveryPipeline/DBDP/wiki/Digital-Biomarker-Discovery-Resources) at DBDP
 * The [Digital Medicine Society (DiMe)](https://www.dimesociety.org)
