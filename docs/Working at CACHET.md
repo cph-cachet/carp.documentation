@@ -1,6 +1,8 @@
+# Working at CACHET
+
 This page provide overall guides on how to work at CACHET (mostly as a student programmer).
 
-# Who does what?
+## Who does what?
 
 The answer to this question is tied to two fundamental aspects:
 
@@ -40,7 +42,7 @@ Here are a few examples:
 
 I hope this helps clarifying who does what. Feel free to ask questions.
 
-# Working Rythms
+## Working Rythms
 
 DTU and CACHET has a working policy of **working in the lab**. Hence, you should to the largest extend possible work from the lab. This also fosters interaction and knowledge exchange -- it's much easier to turn around and ask a question if you're in the lab. Plus you build a shared awareness of what everybody is doing.
 
@@ -50,7 +52,7 @@ Every Monday you should write in the **#office** channel on slack what your plan
 
 `W14 :: Mon AM @DTU | Wed @DTU | Fri AM @Rigshospitalet (helping setting up study)`
 
-# Reporting Hours
+## Reporting Hours
 
 Normal working hour is **15 hours pr. week on average**. Sometime this is more, sometime less - again aligned with your studies. 15 hours is roughtly two days in the lab - 7 + 8 hours.
 
@@ -61,7 +63,7 @@ There is a so-called "flex account" which track whether you're currently above o
 You can also report vacation there. In the system you can see how many hours of vacation you have earned. Note that in Denmark, you earn vacation in year N to be spend in year N+1.
 
 
-# Reimbursement
+## Reimbursement
 
 If you have buy stuff, you can ask Bardram to buy it on a DTU credit card. You may also buy it on your own credit card (if approved by Bardram) and they you will be reimbursed. Questions for administrative stuff, incl. reimbursement should go to Christel Wagner <cwag@bioinformatics.dtu.dk>.
 
