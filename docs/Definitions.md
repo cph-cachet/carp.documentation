@@ -1,3 +1,5 @@
+# Definitions
+
 * **Device**: Any electronic device, such as a sensor, video camera, desktop computer, or smartphone that collects data which can be incorporated into the platform after it has been processed by a master device (potentially itself). Optionally, a device can present output and receive user input.
 * **Master device**: A device which aggregates, synchronizes, and uploads incoming data received from one or more connected devices (potentially just itself). Typically, a desktop computer, smartphone, or web server.
 * **Device data stream**: A stream of data coming from a device, unchanged by the platform, encompassing data points of one specific data type which can be identified in time according to an internal clock of the device. For example, an accelerometry data stream describes acceleration along an X, Y, and Z axis at certain points in time. 
