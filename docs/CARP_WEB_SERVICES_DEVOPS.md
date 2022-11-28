@@ -10,7 +10,7 @@ Currently we are using two "physical" (virtual) servers:
 
 | Name | URL | Who   |
 |------|------|------|
-| CANS | [https//cans.cachet.dk](https//cans.cachet.dk) | [Digital Ocean](https://www.digitalocean.com) |
+| CANS | [https://cans.cachet.dk](https://cans.cachet.dk) | [Digital Ocean](https://www.digitalocean.com) |
 | Computerome | [https://carp.computerome.dk](https://carp.computerome.dk) | [DTU Computerome ](https://computerome.dk)|
 
 
