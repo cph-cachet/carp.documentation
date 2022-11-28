@@ -17,18 +17,18 @@ The [initial outline / architecture of the CARP Sensing Framework](https://githu
 
 ## Description
 
-The CARP Sensing Flutter Plugin is a digital phenotyping research platform designed to collect (via [Probes](CAMS-Probes)) research-quality smartphone sensor data, usage data, and data from wearable wellness and health trackers attached to the mobile device. 
+The CARP Sensing Flutter Plugin is a digital phenotyping research platform designed to collect (via [Probes](#probes)) research-quality smartphone sensor data, usage data, and data from wearable wellness and health trackers attached to the mobile device. 
 
-It is designed to upload data to various local and remote [Data Backends](CAMS-Data-Backends).
+It is designed to upload data to various local and remote [Data Backends](#data-backends).
 It is born together with the [CARP](https://github.com/cph-cachet/carp.documentation/wiki) backend for handling data, studies, participants, etc. and hence follows the overall CARP ontology (domain model). 
 But it is also designed to work stand-alone if you want to manage data on your own. Therefore, it comes with built-in support both for the CARP back-end, as well as for storing data locally in a file format, in the SQLlite DB, and remotely on Google Firestore cloud.
 
-CARP Sensing Flutter is a framework and hence can be [extended](CAMS-Extending). The API documentation explains how you can e.g. create new sensing capabilities by adding your own probes (with their configuration and data formats), as well as add new data management implementation for e.g. storing data in your own data back-end.
+CARP Sensing Flutter is a framework and hence can be [extended](#extending-cams). The API documentation explains how you can e.g. create new sensing capabilities by adding your own probes (with their configuration and data formats), as well as add new data management implementation for e.g. storing data in your own data back-end.
 
 
 # Probes
 
-[CARP Mobile Sensing (CAMS)](CARP-Mobile-Sensing-(CAMS)) supports two types of probes; (i) sensing probes and (ii) wearable probes. This section contains a description of the design / plans for these probes. Once they are done (implemented, tested, and documented, and released), they will be documented at the `carp_mobile_sensing` [MeasureTypes](https://github.com/cph-cachet/carp.sensing-flutter/wiki/A.-Measure-Types) wiki page.
+[CARP Mobile Sensing (CAMS)](CARP_MOBILE_SENSING.md) supports two types of probes; (i) sensing probes and (ii) wearable probes. This section contains a description of the design / plans for these probes. Once they are done (implemented, tested, and documented, and released), they will be documented at the `carp_mobile_sensing` [MeasureTypes](https://github.com/cph-cachet/carp.sensing-flutter/wiki/A.-Measure-Types) wiki page.
 
 **Legend**
 ````
