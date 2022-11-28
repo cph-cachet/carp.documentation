@@ -2,7 +2,7 @@
 
 ## Roles
 
-Roles in CARP cores is described [here](CARP-Roles).
+Roles in CARP cores is described [here](CARP_ROLES.md).
 
 * `Study Owner` - the account(s) (user(s)) who can access studies (sometimes referred to as "Researcher")
 * `Participant` - the user/patient/... who is part of a study deployment. 
