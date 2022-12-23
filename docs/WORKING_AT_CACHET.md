@@ -19,11 +19,11 @@ Jakob     | DTU & [CACHET](https://www.cachet.dk) | SW Architecture, Mobile Sens
 Steven    | [iMotions](https://imotions.com) | SW Architecture, Domain-driven design, Kotlin | Domain architecture, CARP Core
 Alex      | [CACHET](https://www.cachet.dk) | Infrastructure, DevOps, Data Processing | Infrastructure, DevOps, Python libs
 Aidana    | [CACHET](https://www.cachet.dk) | Spring Architecture, Kotlin | CAWS Spring implementation
-Klaudia   | [CACHET](https://www.cachet.dk) | React, JS, Design | CARP Study Portal
+Aamir     | [SOFIA](https://www.cachet.dk/research/research_projects/sofia) | React, JS, Design | CARP Study Portal
+Kacper    | [SOFIA](https://www.cachet.dk/research/research_projects/sofia) | React, JS, Design | CARP Study Portal,  ICAT app
 Mads      | [iPDM-GO](https://www.cachet.dk/research/research_projects/ipdm-go) | Mobile programming, Flutter | iPDM-GO app, Research Package, Flutter Plugins
-Lucia     | WristAngel | Mobile programming, Flutter, [CAMS](https://carp.cachet.dk/cams/) | Study App
-Gonzalo   | [CACHET](https://www.cachet.dk) | UX & Graphical design | web design, app design, graphic elements
-Ossi      | [ICAT](https://www.cachet.dk/research/studies/icat) | React, UX design, DevOps | ICAT app, integration to CAWS
+Lars      | WristAngel | Mobile programming, Flutter, [CAMS](https://carp.cachet.dk/cams/) | Study App
+Nerea     | [CACHET](https://www.cachet.dk) | UX & Graphical design | web design, app design, graphic elements
 
 
 Your work will be prioritised in this order:
