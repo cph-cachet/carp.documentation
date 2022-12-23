@@ -23,7 +23,7 @@ Aamir     | [SOFIA](https://www.cachet.dk/research/research_projects/sofia) | Re
 Kacper    | [SOFIA](https://www.cachet.dk/research/research_projects/sofia) | React, JS, Design | CARP Study Portal,  ICAT app
 Mads      | [iPDM-GO](https://www.cachet.dk/research/research_projects/ipdm-go) | Mobile programming, Flutter | iPDM-GO app, Research Package, Flutter Plugins
 Lars      | WristAngel | Mobile programming, Flutter, [CAMS](https://carp.cachet.dk/cams/) | Study App
-Nerea     | [CACHET](https://www.cachet.dk) | UX & Graphical design | web design, app design, graphic elements
+Nerea     | [CACHET](https://www.cachet.dk) | UX & Graphical design | Web design, app design, graphic elements
 
 
 Your work will be prioritised in this order:
@@ -65,5 +65,5 @@ You can also report vacation there. In the system you can see how many hours of 
 
 ## Reimbursement
 
-If you have buy stuff, you can ask Bardram to buy it on a DTU credit card. You may also buy it on your own credit card (if approved by Bardram) and they you will be reimbursed. Questions for administrative stuff, incl. reimbursement should go to Christel Wagner <cwag@bioinformatics.dtu.dk>.
+If you have to buy stuff, you can ask Bardram to buy it on a DTU credit card. You may also buy it on your own credit card (if approved by Bardram) and they you will be reimbursed. Questions for administrative stuff, incl. reimbursement should go to Christel Wagner <cwag@bioinformatics.dtu.dk>.
 
